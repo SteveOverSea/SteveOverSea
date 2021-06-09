@@ -12,7 +12,7 @@ and always learning on the way!
 **Front End**
 - JavaScript ES6
 - TypeScript
-- AngularJS
+- Angular
 - SCSS
 
 **Back End**
