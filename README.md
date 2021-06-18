@@ -24,10 +24,19 @@ and always learning on the way!
 - Webpack
 - Git
 
-## Capstone Projects
+## Showcase Projects
 
-[WebStore:](https://github.com/SteveOverSea/MyStore)
-AngularJS Front End with PostgreSQL Node.js API
+#### [WebStore](https://github.com/SteveOverSea/MyStore)
+
+Angular Front End with PostgreSQL Node.js API
+
+#### [Pokedex](https://github.com/SteveOverSea/Pokedex)
+
+Angular Front End using the PokeAPI
+
+#### [Travel Weather App](https://github.com/SteveOverSea/TravelWeatherApp)
+
+TypeScript Node Back End serving VanillaJS Front End with API data from geonames, pixabay and weatherbit to show weather data for location depending on user input
 
 ## About
 
