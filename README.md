@@ -6,19 +6,26 @@ I love to create, walking on the edge of art & technology and always onto someth
 
 ## Web Dev 🧑🏻‍💻
 
-Foundations from Udacity's Front End Developer & Full Stack JavaScript Nanodegree
-and always learning on the way!
+Foundations from Udacity's Front End Developer & Full Stack JavaScript Nanodegree.
+Currently full-time employed as software engineer and working with:
+
+- Angular
+- Java Spring Boot
+- Relational Databases
+
+And always learning on the way!
 
 **Front End**
 - JavaScript ES6
 - TypeScript
 - Angular
-- SCSS
+- CSS, SCSS, LESS
 
 **Back End**
-- Node.js
-- PostgreSQL
-- AWS
+- Java
+- Node.js (currently doing a side project with NestJS)
+- SQL
+- Basic AWS
 
 **Tools**
 - Webpack
