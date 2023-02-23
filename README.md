@@ -7,7 +7,7 @@ I love to create, walking on the edge of art & technology and always onto someth
 ## Web Dev 🧑🏻‍💻
 
 Foundations from Udacity's Front End Developer & Full Stack JavaScript Nanodegree.
-Currently full-time employed as software engineer and working with:
+Professional experience as a software engineer working with:
 
 - Angular
 - Java Spring Boot
